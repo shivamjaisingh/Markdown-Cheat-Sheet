@@ -1,155 +1,129 @@
 # Markdown Cheat Sheet
 
+
+# Headings
+
 ```markdown
-# Markdown Cheat Sheet with Examples
+# H1 
+## H2
+### H3 
+#### H4
+##### H5
+###### H6
+```
+# H1 
+## H2
+### H3 
+#### H4
+##### H5
+###### H6
 
-## Headers
+# Linked Text
+
 ```markdown
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+[Google Search Engine](https://www.google.com)
 ```
+[Google Search Engine](https://www.google.com)
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+# Bold Text
 
-## Emphasis
 ```markdown
-*italic* or _italic_
-**bold** or __bold__
-~~strikethrough~~
-**_bold italic_**
+**Bold Text***
 ```
 
-*italic* or _italic_
-**bold** or __bold__
-~~strikethrough~~
-**_bold italic_**
+**Bold Text**
 
-## Lists
+# Italic Text
 
-### Ordered
 ```markdown
-1. First item
-2. Second item
-3. Third item
+*Italic Text*
 ```
 
-1. First item
-2. Second item
-3. Third item
+*Text*
 
-### Unordered
+# Strikethrough Text
+
 ```markdown
-- Bullet list item
-- Another item
-  - Sub-item 1
-  - Sub-item 2
+~~Strikethrough Text~~
 ```
 
-- Bullet list item
-- Another item
-  - Sub-item 1
-  - Sub-item 2
+~~Strikethrough Text~~
 
-## Links
+# Unordered List
+
 ```markdown
-[OpenAI](https://www.openai.com)
+- Item 1 
+- Item 2
+- Item 3
+- Item 4
 ```
 
-[OpenAI](https://www.openai.com)
+- Item 1 
+- Item 2
+- Item 3
+- Item 4
 
-## Images
+
+# Ordered List
+
 ```markdown
-![OpenAI Logo](https://example.com/logo.png)
+1. Item 1
+2. Item 2
+3. Item 3
+4. Item 4
 ```
 
-This will display an image if the URL is correct.
+1. Item 1
+2. Item 2
+3. Item 3
+4. Item 4
 
-## Code
+# Inline Code
 
-### Inline code
 ```markdown
-`print('Hello, World!')`
+`print("Hello World!")`
 ```
 
-`print('Hello, World!')`
+`print("Hello World!")`
 
-### Code block
+
+# Quoted Text
+
 ```markdown
-```
-# Python code
-def hello():
-    print("Hello, World!")
-hello()
-```
+> Quote Text
 ```
 
-```python
-# Python code
-def hello():
-    print("Hello, World!")
-hello()
-```
+> Quote Text
 
-## Tables
+# Check Boxes
+
 ```markdown
-| Header 1   | Header 2   | Header 3   |
-|------------|------------|------------|
-| Row 1 Col 1| Row 1 Col 2| Row 1 Col 3|
-| Row 2 Col 1| Row 2 Col 2| Row 2 Col 3|
+- [x] Checked Item
+- [ ] Unchecked Item 
 ```
 
-| Header 1   | Header 2   | Header 3   |
-|------------|------------|------------|
-| Row 1 Col 1| Row 1 Col 2| Row 1 Col 3|
-| Row 2 Col 1| Row 2 Col 2| Row 2 Col 3|
+- [x] Checked Item
+- [ ] Unchecked Item 
 
-## Blockquotes
+# Highlighted Text
+
 ```markdown
-> This is a blockquote.
+==Highlighted Text==
 ```
 
-> This is a blockquote.
+==Highlighted Text==
 
-## Horizontal Rule
-```markdown
----
-```
+# Subscript
 
----
-
-## Extra Markdown Syntax
-
-### Checkboxes
-```markdown
-- [ ] Unchecked box
-- [x] Checked box
-```
-
-- [ ] Unchecked box
-- [x] Checked box
-
-### Highlight
-```markdown
-==highlight==
-```
-
-==highlight== (Note: This may not work in all Markdown processors.)
-
-### Subscript and Superscript
 ```markdown
 H~2~O
-X^2^
 ```
 
-H~2~O (subscript)
-X^2^ (superscript)
+H~2~O
+
+# Supersript 
+
+```markdown
+y=x^2^
 ```
+y=x^2^
