@@ -108,13 +108,13 @@
 # Subscript
 
 ```markdown
-H<sub>2<sub>O
+H<sub>2</sub>O
 ```
 H<sub>2</sub>O
 
 # Supersript 
 
 ```markdown
-y=x<sup>2<sup>
+y=x<sup>2</sup>
 ```
 y=x<sup>2</sup>
