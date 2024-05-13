@@ -118,12 +118,11 @@
 ```markdown
 H<sub>2<sub>O
 ```
-
-H~2~O
+H<sub>2<sub>O
 
 # Supersript 
 
 ```markdown
 y=x<sup>2<sup>
 ```
-y=x^2^
+y=x<sup>2<sup>
