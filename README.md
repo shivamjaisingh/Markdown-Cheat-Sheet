@@ -116,7 +116,7 @@
 # Subscript
 
 ```markdown
-H~2~O
+H<sub>2<sub>O
 ```
 
 H~2~O
@@ -124,6 +124,6 @@ H~2~O
 # Supersript 
 
 ```markdown
-y=x^2^
+y=x<sup>2<sup>
 ```
 y=x^2^
