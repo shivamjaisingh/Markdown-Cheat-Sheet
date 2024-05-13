@@ -1,7 +1,5 @@
 # Markdown Cheat Sheet
 
-Absolutely! Below is an extended version of the Markdown cheat sheet that includes examples to help you see how the syntax translates to actual formatted text.
-
 ```markdown
 # Markdown Cheat Sheet with Examples
 
