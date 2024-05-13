@@ -105,14 +105,6 @@
 - [x] Checked Item
 - [ ] Unchecked Item 
 
-# Highlighted Text
-
-```markdown
-<mark>Marked text</mark>
-```
-
-<mark>Marked text</mark>
-
 # Subscript
 
 ```markdown
