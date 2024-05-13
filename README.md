@@ -108,10 +108,10 @@
 # Highlighted Text
 
 ```markdown
-==Highlighted Text==
+<mark>Marked text</mark>
 ```
 
-==Highlighted Text==
+<mark>Marked text</mark>
 
 # Subscript
 
