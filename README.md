@@ -122,9 +122,14 @@ y=x<sup>2</sup>
 # Tables
 
 ```markdown
-Column 1 | Column 2
--------------------
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 ```
-Column 1 | Column 2
--------------------
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
