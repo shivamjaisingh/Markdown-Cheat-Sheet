@@ -118,3 +118,13 @@ H<sub>2</sub>O
 y=x<sup>2</sup>
 ```
 y=x<sup>2</sup>
+
+# Tables
+
+```markdown
+Column 1 | Column 2
+-------------------
+```
+Column 1 | Column 2
+-------------------
+
